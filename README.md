@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ngannguyen97
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ngan Nguyen, or you can call me Jasmine 🌸 
+- 👀 I’m here to help talents find the right jobs.
+- 🌱 I’m currently hiring **Java BackEnd, Solutions Architect, DevOps, Python** for an Fintech outsourcing company (based in Germany)
+- 📫 How to reach me:
+     📱: 0779190407
+     💻: ngxuanthaongan261 (Skype)
 
 <!---
 ngannguyen97/ngannguyen97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
